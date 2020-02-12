@@ -1,0 +1,8 @@
+checkmail functie uitwerken
+
+Tentamens onderdelen
+DFA to RE state elimination method by deeba kannan
+
+
+programma
+abstract automata
